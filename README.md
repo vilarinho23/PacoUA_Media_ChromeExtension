@@ -1,7 +1,7 @@
 # PacoUA_Media_ChromeExtension
 ## Description
 
-Google Chrome Extension that adds the average grade of the student, in the "Grade History" page in the Online Academic Portal (PACO) of the University of Aveiro.
+Google Chrome Extension that adds the average grade of the student, in the "Grade History" page in the Online Academic Portal ([PACO](https://paco.ua.pt//)) of the [University of Aveiro](https://www.ua.pt/)
 
 ## Getting Started
 
